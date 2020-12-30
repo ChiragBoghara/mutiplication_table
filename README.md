@@ -1,6 +1,10 @@
 # mutiplication_table
 
-A new Flutter application.
+A new Simple Flutter application to show multiplication table of use inputted number.
+
+![Screenshot_20201229-161617](https://user-images.githubusercontent.com/63946430/103333221-29640200-4a93-11eb-8916-f259d19e8a4a.jpg)
+![Screenshot_20201229-161622](https://user-images.githubusercontent.com/63946430/103333224-2b2dc580-4a93-11eb-896f-b0c34485a503.jpg)
+
 
 ## Getting Started
 
